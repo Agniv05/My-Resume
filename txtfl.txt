@@ -1,0 +1,79 @@
+Agniv Mitra
+20/3 Benaras Road, Salkia, Howrah-711106  
++91 7278509362  
+agnivmitra11@gmail.com  
+github.com/Agniv05 (https://github.com/Agniv05)
+
+
+
+Education
+
+Techno India University, Kolkata
+Bachelor of Technology in Computer Science and Engineering (AIML Specialization)  
+2nd Year | Expected Graduation: 2027  
+
+*Don Bosco Liluah*  
+Indian School Certificate (ISC)  
+Graduated: 2023 | Percentage: 86%
+
+
+
+Technical Skills
+
+- Programming Languages: Java, C, C++, Python, CSS, JavaScript, HTML
+- Tools & Technologies: Corel, Adobe Photosop, Linux
+
+
+
+Work Experience
+
+AIML Intern  
+Skill Academia  
+Duration: 6 months  
+
+- Developed AI/ML models and algorithms, contributing to projects that required knowledge of machine learning and data science.
+- Collaborated with a team to design and implement AIML-based solutions.
+- Gained experience in deploying and evaluating AIML models in practical applications.
+
+
+
+Projects
+
+HTML Tutorial 
+GitHub: [htmltuto](https://github.com/Agniv05/htmltuto)  
+Created an HTML tutorial project demonstrating fundamental HTML concepts.
+
+Java Programs
+GitHub: [Java-Programs](https://github.com/Agniv05/Java-Programs)  
+Collection of Java-based programs showcasing proficiency in object-oriented programming and data structures.
+
+Jarvis Model 
+GitHub: [Jarvis-model](https://github.com/Agniv05/Jarvis-model)  
+Developed a personal assistant model using AIML techniques and integrated functionalities for task automation.
+
+Library Management System
+GitHub: [library-management-system](https://github.com/Agniv05/library-management-system)  
+Designed a library management system with functionalities for adding, updating, and tracking books using a structured database.
+
+Python Programs
+GitHub: [PythonProg](https://github.com/Agniv05/PythonProg)  
+Compilation of Python-based scripts focusing on problem-solving and data manipulation.
+
+C Programs  
+GitHub: [CPrograms](https://github.com/Agniv05/CPrograms)  
+A set of C programs covering foundational programming concepts and algorithms.
+
+
+
+
+
+Achievements
+
+- Completed internships in AIML, gaining hands-on experience with real-world applications.
+
+
+
+References
+
+Available upon request.
+
